@@ -2,13 +2,13 @@
     font-family: 'HanSerif';
     font-weight: normal;
     font-style: normal;
-    src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerif.woff') format('woff');
-    src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerif.woff2') format('woff2');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dcb0ee37363dd67e08e95f18429da805ed57556a/webfonts/HanSerif.woff') format('woff');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dcb0ee37363dd67e08e95f18429da805ed57556a/webfonts/HanSerif.woff2') format('woff2');
 }
 @font-face {
     font-family: 'HanSerifChe';
     font-weight: normal;
     font-style: normal;
-    src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerifChe.woff') format('woff');
-    src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerifChe.woff2') format('woff2');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dcb0ee37363dd67e08e95f18429da805ed57556a/webfonts/HanSerifChe.woff') format('woff');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dcb0ee37363dd67e08e95f18429da805ed57556a/webfonts/HanSerifChe.woff2') format('woff2');
 }

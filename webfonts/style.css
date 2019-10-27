@@ -2,7 +2,7 @@
     font-family: 'HanBatang';
     font-weight: normal;
     font-style: normal;
-    font-display: fallback;
+    font-display: block;
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanBatang.woff2') format('woff2');
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanBatang.woff') format('woff');
 }
@@ -10,7 +10,7 @@
     font-family: 'HanBatangChe';
     font-weight: normal;
     font-style: normal;
-    font-display: fallback;
+    font-display: block;
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanBatangChe.woff2') format('woff2');
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanBatangChe.woff') format('woff');
 }
@@ -18,7 +18,7 @@
     font-family: 'HanDotum';
     font-weight: normal;
     font-style: normal;
-    font-display: fallback;    
+    font-display: block;    
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanDotum.woff2') format('woff2');
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanDotum.woff') format('woff');
 }
@@ -26,7 +26,7 @@
     font-family: 'HanGulim';
     font-weight: normal;
     font-style: normal;
-    font-display: fallback;    
+    font-display: block;    
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanGulim.woff2') format('woff2');
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/730bfbf41fbdbdb80a2aa1c6b76d840176a7fedb/webfonts/HanGulim.woff') format('woff');
 }

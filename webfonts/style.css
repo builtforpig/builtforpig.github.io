@@ -2,13 +2,13 @@
     font-family: 'HanSerif';
     font-weight: normal;
     font-style: normal;
-    url('https://github.com/builtforpig/pigpen/new/master/HanSerif.woff') format('woff'),
+    url('https://github.com/builtforpig/pigpen/new/master/HanSerif.woff') format('woff');
     url('https://github.com/builtforpig/pigpen/new/master/HanSerif.woff2') format('woff2'),
 }
 @font-face {
     font-family: 'HanSerifChe';
     font-weight: normal;
     font-style: normal;
-    url('https://github.com/builtforpig/pigpen/new/master/HanSerifChe.woff') format('woff'),
+    url('https://github.com/builtforpig/pigpen/new/master/HanSerifChe.woff') format('woff');
     url('https://github.com/builtforpig/pigpen/new/master/HanSerifChe.woff2') format('woff2'),
 }

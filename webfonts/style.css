@@ -3,12 +3,12 @@
     font-weight: normal;
     font-style: normal;
     src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerif.woff') format('woff');
-    url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerif.woff2') format('woff2');
+    src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerif.woff2') format('woff2');
 }
 @font-face {
     font-family: 'HanSerifChe';
     font-weight: normal;
     font-style: normal;
     src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerifChe.woff') format('woff');
-    url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerifChe.woff2') format('woff2');
+    src: url('https://github.com/builtforpig/pigpen/raw/master/webfonts/HanSerifChe.woff2') format('woff2');
 }

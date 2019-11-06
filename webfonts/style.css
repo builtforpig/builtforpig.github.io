@@ -18,16 +18,16 @@
     font-family: 'WebDotum';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebDotum.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebDotum.woff') format('woff');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff2') format('woff2');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff') format('woff');
 }
 
 @font-face {
     font-family: 'WebDotumChe';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebDotumChe.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebDotumChe.woff') format('woff');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff2') format('woff2');
+    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff') format('woff');
 }
 
 @font-face {

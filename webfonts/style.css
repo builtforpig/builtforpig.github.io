@@ -53,11 +53,3 @@
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff2') format('woff2');
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff') format('woff');
 }
-
-@font-face {
-    font-family: 'Web Mono';
-    font-weight: bold;
-    font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMonoBold.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMonoBold.woff') format('woff');
-}

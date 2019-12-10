@@ -2,8 +2,8 @@
     font-family: sans-serif;
     font-weight: normal;    
     font-style: normal;
-    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff2') format('woff2');
-    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/5435efb4fb36fdc1c53f180ebba79258ca119339/webfonts/DungGeunMo.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/5435efb4fb36fdc1c53f180ebba79258ca119339/webfonts/DungGeunMo.woff') format('woff');
 }
 
 @font-face {

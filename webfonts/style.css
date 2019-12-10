@@ -1,41 +1,41 @@
 @font-face {
-    font-family: 'VT-100';
+    font-family: VT100;
     font-weight: normal;    
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff') format('woff');
 }
 
 @font-face {
     font-family: 'WebBatang';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatang.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatang.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatang.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatang.woff') format('woff');
 }
 
 @font-face {
     font-family: 'WebBatangChe';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatangChe.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatangChe.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatangChe.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatangChe.woff') format('woff');
 }
 
 @font-face {
     font-family: 'WebDotum';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff') format('woff');
 }
 
 @font-face {
     font-family: 'WebDotumChe';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff') format('woff');
 }
 
 @font-face {
@@ -50,14 +50,14 @@
     font-family: 'WebGulimChe';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebGulimChe.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebGulimChe.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebGulimChe.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebGulimChe.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Web Mono';
     font-weight: normal;
     font-style: normal;
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff2') format('woff2');
-    src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff') format('woff');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff2') format('woff2');
+    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff') format('woff');
 }

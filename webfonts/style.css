@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'DungGeunMo';
+    font-family: sans-serif;
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff2') format('woff2');
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'PCDOSBT';
+    font-family: serif;
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/e0cb0e925373d0ed731a41117cbd1d23685976de/webfonts/PCDOSBT.woff2') format('woff2');
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: 'WebBatang';
+    font-family: serif;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatang.woff2') format('woff2');
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: 'WebBatangChe';
+    font-family: monospace;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatangChe.woff2') format('woff2');
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-    font-family: 'WebDotum';
+    font-family: sans-serif;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotum.woff2') format('woff2');
@@ -39,7 +39,7 @@
 }
 
 @font-face {
-    font-family: 'WebDotumChe';
+    font-family: monospace;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/84fd358dab80d897c68a9ed234591a12b5d5cd2c/webfonts/WebDotumChe.woff2') format('woff2');
@@ -47,7 +47,7 @@
 }
 
 @font-face {
-    font-family: 'WebGulim';
+    font-family: sans-serif;
     font-weight: normal;
     font-style: normal;
     src: url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebGulim.woff2') format('woff2');
@@ -55,7 +55,7 @@
 }
 
 @font-face {
-    font-family: 'WebGulimChe';
+    font-family: monospace;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebGulimChe.woff2') format('woff2');
@@ -63,7 +63,7 @@
 }
 
 @font-face {
-    font-family: 'Web Mono';
+    font-family: monospace;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebMono.woff2') format('woff2');

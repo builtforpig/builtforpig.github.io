@@ -8,14 +8,6 @@
 
 @font-face {
     font-family: serif;
-    font-weight: normal;    
-    font-style: normal;
-    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/e0cb0e925373d0ed731a41117cbd1d23685976de/webfonts/PCDOSBT.woff2') format('woff2');
-    src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/e0cb0e925373d0ed731a41117cbd1d23685976de/webfonts/PCDOSBT.woff') format('woff');
-}
-
-@font-face {
-    font-family: serif;
     font-weight: normal;
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/dd505d5418e3ed7dd1bbf2d592e883ef75c5521e/webfonts/WebBatang.woff2') format('woff2');

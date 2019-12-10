@@ -1,5 +1,5 @@
 @font-face {
-    font-family: VT100;
+    font-family: 'DungGeunMo';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/538777e963303bc0c51230aa3f044b70949906a1/webfonts/DungGeunMo.woff2') format('woff2');
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: PCDOS;
+    font-family: 'PCDOSBT';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://rawcdn.githack.com/builtforpig/pigpen/e0cb0e925373d0ed731a41117cbd1d23685976de/webfonts/PCDOSBT.woff2') format('woff2');

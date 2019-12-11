@@ -1,5 +1,5 @@
 @font-face {
-    font-family: DungGeunMo;
+    font-family: 'DungGeunMo', vt100;
     font-weight: normal;    
     font-style: normal;
     src: url('https://builtforpig.github.io/webfonts/DungGeunMo.woff2') format('woff2');
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: DOSMyungjo;
+    font-family: 'DOSMyungjo', vt100;
     font-weight: normal;    
     font-style: normal;
     src: url('https://builtforpig.github.io/webfonts/DOSMyungjo.woff2') format('woff2');

@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'IyagiGothicChe','이야기고딕체';
+    font-family: 'IyagiGothicChe';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff2') format('woff2');
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: 'MyeongJoChe','명조체';
+    font-family: 'MyeongJoChe';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff2') format('woff2');

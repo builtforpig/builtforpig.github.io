@@ -1,15 +1,23 @@
 @font-face {
-    font-family: 'DungGeunMo';
+    font-family: 'VGABIOS';
     font-weight: normal;    
     font-style: normal;
-    src: url('https://builtforpig.github.io/webfonts/DungGeunMo.woff2') format('woff2');
-    src: url('https://builtforpig.github.io/webfonts/DungGeunMo.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'DOSMyungjo';
+    font-family: 'IyagiGothicChe','이야기고딕체';
     font-weight: normal;    
     font-style: normal;
-    src: url('https://builtforpig.github.io/webfonts/DOSMyungjo.woff2') format('woff2');
-    src: url('https://builtforpig.github.io/webfonts/DOSMyungjo.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'MyeongJoChe','명조체';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff') format('woff');
 }

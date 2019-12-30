@@ -1,23 +1,84 @@
 @font-face {
-    font-family: 'VGABIOS';
-    font-weight: normal;    
-    font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff') format('woff');
-}
-
-@font-face {
     font-family: 'IyagiGothicChe';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff') format('woff');
 }
-
+@font-face {
+    font-family: 'Mono Boot';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Mono_Boot.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Mono_Boot.woff') format('woff');
+}
 @font-face {
     font-family: 'MyeongJoChe';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff') format('woff');
+}
+@font-face {
+    font-family: 'Ubuntu';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu.woff') format('woff');
+}
+@font-face {
+    font-family: 'Ubuntu Bold';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Ubuntu Mono';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono.woff') format('woff');
+}
+@font-face {
+    font-family: 'Ubuntu Mono Bold';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono_Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Ubuntu Mono Bold Italic';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono_Bold_Italic.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono_Bold_Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Ubuntu Mono Italic';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono_Italic.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/Ubuntu_Mono_Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'UbuntuHangeul';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/UbuntuHangeul.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/UbuntuHangeul.woff') format('woff');
+}
+@font-face {
+    font-family: 'UbuntuHangeul Bold';
+    font-weight: bold;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/UbuntuHangeul_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/UbuntuHangeul_Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'VGABIOS';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff') format('woff');
 }

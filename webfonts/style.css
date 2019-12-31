@@ -82,3 +82,45 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff') format('woff');
 }
+@font-face {
+    font-family: 'WebBatang';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebBatang.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebBatang.woff') format('woff');
+}
+@font-face {
+    font-family: 'WebBatangChe';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebBatangChe.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebBatangChe.woff') format('woff');
+}
+@font-face {
+    font-family: 'WebDotum';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebDotum.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebDotum.woff') format('woff');
+}
+@font-face {
+    font-family: 'WebDotumChe';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebDotumChe.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebDotumChe.woff') format('woff');
+}
+@font-face {
+    font-family: 'WebGulim';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebGulim.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebGulim.woff') format('woff');
+}
+@font-face {
+    font-family: 'WebGulimChe';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebGulimChe.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/WebGulimChe.woff') format('woff');
+}

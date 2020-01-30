@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'IyagiGothicChe';
+    font-family: 'HBIOS949';
     font-weight: normal;    
     font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/webfonts/IyagiGothicChe.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HBIOS949.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HBIOS949.woff') format('woff');
 }
 @font-face {
     font-family: 'Mono Boot';
@@ -11,13 +11,6 @@
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/Mono_Boot.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/Mono_Boot.woff') format('woff');
-}
-@font-face {
-    font-family: 'MyeongJoChe';
-    font-weight: normal;    
-    font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/webfonts/MyeongJoChe.woff') format('woff');
 }
 @font-face {
     font-family: 'Ubuntu';

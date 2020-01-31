@@ -76,13 +76,6 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/UbuntuHangeul_Bold.woff') format('woff');
 }
 @font-face {
-    font-family: 'VGABIOS';
-    font-weight: normal;    
-    font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/webfonts/VGABIOS.woff') format('woff');
-}
-@font-face {
     font-family: 'WebBatang';
     font-weight: normal;    
     font-style: normal;

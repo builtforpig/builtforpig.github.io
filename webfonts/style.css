@@ -6,6 +6,13 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/HBIOS949.woff') format('woff');
 }
 @font-face {
+    font-family: 'CP437';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/CP437.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/CP437.woff') format('woff');
+}
+@font-face {
     font-family: 'Mono Boot';
     font-weight: normal;    
     font-style: normal;

@@ -13,11 +13,11 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/USOEM_CP437.woff') format('woff');
 }
 @font-face {
-    font-family: 'Mono Boot';
+    font-family: '$KROHNGOTHIC';
     font-weight: normal;    
     font-style: normal;
-    src:local(☺), url('https://builtforpig.github.io/webfonts/Mono_Boot.woff2') format('woff2');
-    src:local(☺), url('https://builtforpig.github.io/webfonts/Mono_Boot.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/ROMAN_GOTHIC.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/ROMAN_GOTHIC.woff') format('woff');
 }
 @font-face {
     font-family: 'Ubuntu';

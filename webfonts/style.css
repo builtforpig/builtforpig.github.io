@@ -22,6 +22,7 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/ROMAN_GOTHIC.woff') format('woff');
     src:local(☺), url('https://builtforpig.github.io/webfonts/$KROHNGOTHIC.ttf') format('truetype');
 }
+/*
 @font-face {
     font-family: 'Ubuntu';
     font-weight: normal;    
@@ -120,3 +121,4 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/WebGulimChe.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/WebGulimChe.woff') format('woff');
 }
+*/

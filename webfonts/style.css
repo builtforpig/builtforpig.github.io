@@ -82,7 +82,7 @@
 */
 @font-face {
     font-family: 'HanBatang';
-    font-weight: normal;    
+    font-weight: 400;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.woff') format('woff');
@@ -90,7 +90,7 @@
 }
 @font-face {
     font-family: 'HanBatang';
-    font-weight: bold;    
+    font-weight: 700;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.woff') format('woff');

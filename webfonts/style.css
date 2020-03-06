@@ -121,6 +121,23 @@
 }
 */
 @font-face {
+    font-family: 'HanBatang';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanBatang';
+    font-weight: bold;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.ttf') format('truetype');
+}
+
+@font-face {
     font-family: 'HanBatangChe';
     font-weight: normal;    
     font-style: normal;
@@ -137,6 +154,23 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Bold.ttf') format('truetype');
 }
 @font-face {
+    font-family: 'HanDotum';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotum_Regular.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotum_Regular.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotum_Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanDotum';
+    font-weight: bold;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotum_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotum_Bold.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotum_Bold.ttf') format('truetype');
+}
+
+@font-face {
     font-family: 'HanDotumChe';
     font-weight: normal;    
     font-style: normal;
@@ -151,6 +185,22 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotumChe_Bold.woff2') format('woff2');
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotumChe_Bold.woff') format('woff');
     src:local(☺), url('https://builtforpig.github.io/webfonts/HanDotumChe_Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanGulim';
+    font-weight: normal;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanGulim_Regular.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanGulim_Regular.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanGulim_Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanGulim';
+    font-weight: bold;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanGulim_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanGulim_Bold.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanGulim_Bold.ttf') format('truetype');
 }
 @font-face {
     font-family: 'HanGulimChe';

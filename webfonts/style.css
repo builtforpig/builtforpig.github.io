@@ -15,7 +15,8 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/CP437.ttf') format('truetype');
 }
 @font-face {
-    font-family: '$KROHNGOTHIC';
+  /*font-family: '$KROHNGOTHIC';*/
+    font-family: 'ROMANGOTHIC';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/ROMAN_GOTHIC.woff2') format('woff2');

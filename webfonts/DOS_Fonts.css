@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'CP437';
+    font-family: 'USOEM-CP437';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/USOEM_CP437.woff2') format('woff2');
@@ -7,7 +7,7 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/CP437.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'HBIOS';
+    font-family: 'HBIOS-CP949';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/HBIOS_CP949.woff2') format('woff2');
@@ -15,7 +15,7 @@
     src:local(☺), url('https://builtforpig.github.io/webfonts/HBIOS.ttf') format('truetype');
 }
 @font-face {
-    font-family: '$KROHNGOTHIC';
+    font-family: 'ROMAN-GOTHIC';
     font-weight: normal;    
     font-style: normal;
     src:local(☺), url('https://builtforpig.github.io/webfonts/ROMAN_GOTHIC.woff2') format('woff2');

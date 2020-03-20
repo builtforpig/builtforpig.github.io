@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'HanBatang';
+    font-weight: 400;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanBatang';
+    font-weight: 700;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatang_Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanBatangChe';
+    font-weight: 400;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Regular.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Regular.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'HanBatangChe';
+    font-weight: 700;    
+    font-style: normal;
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Bold.woff2') format('woff2');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Bold.woff') format('woff');
+    src:local(☺), url('https://builtforpig.github.io/webfonts/HanBatangChe_Bold.ttf') format('truetype');
+}

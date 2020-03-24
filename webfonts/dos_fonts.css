@@ -10,8 +10,8 @@
     font-family: 'HCODE';
     font-weight: normal;    
     font-style: normal;
-    src: local(☺), url('https://builtforpig.github.io/webfonts/HBIOS_CP949.woff2') format('woff2');
-    src: local(☺), url('https://builtforpig.github.io/webfonts/HBIOS_CP949.woff') format('woff');
+    src: local(☺), url('https://builtforpig.github.io/webfonts/HBIOS-CP949.woff2') format('woff2');
+    src: local(☺), url('https://builtforpig.github.io/webfonts/HBIOS-CP949.woff') format('woff');
     src: local(☺), url('https://builtforpig.github.io/webfonts/HBIOS.ttf') format('truetype');
 }
 @font-face {

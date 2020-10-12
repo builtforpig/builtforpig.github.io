@@ -25,3 +25,12 @@
                    url('https://builtforpig.github.io/webfonts/ROMAN_GOTHIC.woff') format('woff'),
                    url('https://builtforpig.github.io/webfonts/$KROHNGOTHIC.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'HBIOSHL';
+    font-weight: normal;    
+    font-style: normal;
+    font-display: block;
+    src: local(☺), url('https://builtforpig.github.io/webfonts/HBIOSHL.woff2') format('woff2'),
+                   url('https://builtforpig.github.io/webfonts/HBIOSHL.woff') format('woff'),
+                   url('https://builtforpig.github.io/webfonts/HBIOSHL.ttf') format('truetype');
+}
